@@ -1,24 +1,7 @@
-## Hi there 👋
-
-<!--
-**rohithrc6/rohithrc6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### <h2> Namaste 🙏🏻, I'm Rohith, welcome to my profile!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nitish Awasthi" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Rohith Challa" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 
@@ -29,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Bhagavad Gita 🛕, Cars 🏎️, FCB ⚽️, Fashion 👔, Rock Bottoms 📉**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-# Hungry to solve problems and help businesses groww!*
+# Hungry to solve problems and help businesses groww!
 
 ### I know more about- </br>
 
