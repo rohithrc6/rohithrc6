@@ -1,9 +1,7 @@
-### <h2> Namaste 🙏🏻, I'm Rohith, welcome to my profile!
+### <h2> Namaste 🙏🏻! I'm Rohith, welcome to my profile!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Rohith Challa" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
-</br></br></br>
+
 
 - 🔭 I’m currently more into the **Data Analytics and AI**
 - 🌱 I’m currently learning **GenAI**
