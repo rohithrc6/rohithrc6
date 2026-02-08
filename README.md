@@ -25,18 +25,18 @@
 
 
 ### Some of the technologies I'm currently working on: </br>
-![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=LangChain)  
-![OpenAI](http://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=OpenAI)  
-![GPT-4o](http://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=OpenAI)  
-![Hugging Face](http://img.shields.io/badge/-HuggingFace-000000?style=for-the-badge&logo=HuggingFace)  
-![Pinecone](http://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=Pinecone)  
-![RAG](http://img.shields.io/badge/-RAG-000000?style=for-the-badge&logo=OpenAI)  
-![Embeddings](http://img.shields.io/badge/-Embeddings-000000?style=for-the-badge&logo=OpenAI)  
+![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=LangChain)
+![OpenAI](http://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=OpenAI)
+![GPT-4o](http://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=OpenAI)
+![Hugging Face](http://img.shields.io/badge/-HuggingFace-000000?style=for-the-badge&logo=HuggingFace)
+![Pinecone](http://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=Pinecone)
+![RAG](http://img.shields.io/badge/-RAG-000000?style=for-the-badge&logo=OpenAI)
+![Embeddings](http://img.shields.io/badge/-Embeddings-000000?style=for-the-badge&logo=OpenAI)
 ![Semantic Search](http://img.shields.io/badge/-Semantic%20Search-000000?style=for-the-badge&logo=OpenAI)
-![Flask](http://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask)  
-![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker)  
-![HTML5](http://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)  
-![CSS3](http://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)  
+![Flask](http://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask)
+![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker)
+![HTML5](http://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](http://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 
 </br></br></br></br>
