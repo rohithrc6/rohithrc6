@@ -10,7 +10,7 @@
 
 # Hungry to solve problems and help businesses groww!
 
-### I know more about- </br>
+### I know more about: </br>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 
 
-### Some of the technologies I'm currently working on-</br>
+### Some of the technologies I'm currently working on: </br>
 ![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=LangChain)  
 ![OpenAI](http://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=OpenAI)  
 ![GPT-4o](http://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=OpenAI)  
