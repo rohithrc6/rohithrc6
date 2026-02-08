@@ -40,7 +40,6 @@
 ![CSS3](http://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)  
 ![JavaScript](http://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 
-</br></br></br></br>
 
 
 <p align="center">
