@@ -25,19 +25,20 @@
 
 
 ### Some of the technologies I'm currently working on: </br>
-![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=LangChain)
-![OpenAI](http://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=OpenAI)
-![GPT-4o](http://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=OpenAI)
-![Hugging Face](http://img.shields.io/badge/-HuggingFace-000000?style=for-the-badge&logo=HuggingFace)
-![Pinecone](http://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=Pinecone)
-![RAG](http://img.shields.io/badge/-RAG-000000?style=for-the-badge&logo=OpenAI)
-![Embeddings](http://img.shields.io/badge/-Embeddings-000000?style=for-the-badge&logo=OpenAI)
-![Semantic Search](http://img.shields.io/badge/-Semantic%20Search-000000?style=for-the-badge&logo=OpenAI)
-![Flask](http://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask)
-![Docker](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker)
-![HTML5](http://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](http://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![JavaScript](http://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai)
+![GPT-4o](https://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=openai)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-000000?style=for-the-badge&logo=huggingface)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG-000000?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/-Embeddings-000000?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-000000?style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+
 
 </br></br>
 
