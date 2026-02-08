@@ -26,10 +26,9 @@
 
 ### Some of the technologies I'm currently working on: </br>
 ![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=LangChain)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=OpenAI)
-![GPT-4o](https://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=openai)
+![OpenAI GPT-4o](https://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=openai)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-000000?style=for-the-badge&logo=huggingface)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=pinecone)
 ![RAG](https://img.shields.io/badge/-RAG-000000?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/-Embeddings-000000?style=for-the-badge)
 ![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-000000?style=for-the-badge)
