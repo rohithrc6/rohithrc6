@@ -11,7 +11,6 @@
 ### Hungry to solve problems and help businesses groww!
 
 ### I know more about: </br>
-
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000000?style=for-the-badge&logo=powerbi)
