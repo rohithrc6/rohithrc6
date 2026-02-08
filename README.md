@@ -1,8 +1,5 @@
 ### <h2> Namaste 🙏🏻
 ### I'm Rohith, welcome to my profile!
-  </br>
-
-
 
 - 🔭 I’m currently more into the **Data Analytics and AI**
 - 🌱 I’m currently learning **GenAI**
