@@ -1,14 +1,14 @@
 ### <h2> Namaste 🙏🏻
 ### I'm Rohith, welcome to my profile!
 
-- 🔭 I’m currently more into the **Data Analytics and AI**
+- 🔭 I’m currently more into **Data Analytics and AI**
 - 🌱 I’m currently learning **GenAI**
-- 👯 I’m looking to collaborate on: **Generally anything related to GenAI. Precisely, building AI-powered products that help the public.**
-- 🤔 I’m looking for help with **Developing a product oriented mindset.**
+- 👯 I’m looking to collaborate on: **Main quest: High-impact GenAI initiatives. Side quest: Building AI-powered products for public good.**
+- 🤔 I’m looking for help with **Developing a product agnostic mindset.**
 - 💬 Ask me about **Cars 🏎️, FCB ⚽️, Gym 🏋️‍♂️, Rock Bottoms 📉, Bhagavad Gita 🛕**
-- ⚡ Fun fact: **Quantum Physics says luck has a funny habit of showing up for people who stay curious and don’t take failure personally.**
+- ⚡ **Fun fact:** Quantum Physics says "luck" has a funny habit of showing up for people who stay **curious** and don’t take failure **personally**.
 
-#### Always hungry to solve problems using Data and help businesses grow!
+#### Focused on objective data and tailored solutions to bridge the gap between business problems and scalable growth.
 
 ### I know: </br>
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
