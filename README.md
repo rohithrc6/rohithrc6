@@ -1,5 +1,4 @@
-### <h2> Namaste 🙏🏻
-### I'm Rohith Challa, welcome to my profile!
+                                                            ### <h2> Namaste 🙏🏻 I'm Rohith Challa, welcome to my profile!
 
 - 🔭 I’m currently more into **Data Analytics and AI**
 - 🌱 I’m currently learning **GenAI**
