@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently more into the **Data Analytics and AI**
 - 🌱 I’m currently learning **GenAI**
-- 👯 I’m looking to collaborate on: **Anything related to GenAI in general. And building products leveraging AI that help the public.**
+- 👯 I’m looking to collaborate on: **Generally anything related to GenAI. Precisely, building AI-powered products that help the public.**
 - 🤔 I’m looking for help with **Developing a product oriented mindset.**
 - 💬 Ask me about **Bhagavad Gita 🛕, Cars 🏎️, FCB ⚽️, Fashion 👔, Rock Bottoms 📉**
-- ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+- ⚡ Fun fact: **Quantum Physics says luck has a funny habit of showing up for people who stay curious and don’t take failure personally.**
 
-### Hungry to solve problems and help businesses groww!
+#### Always hungry to solve problems and help businesses grow!
 
 ### I know more about: </br>
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
