@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning **GenAI**
 - 👯 I’m looking to collaborate on: **Generally anything related to GenAI. Precisely, building AI-powered products that help the public.**
 - 🤔 I’m looking for help with **Developing a product oriented mindset.**
-- 💬 Ask me about **Bhagavad Gita 🛕, Cars 🏎️, FCB ⚽️, Fashion 👔, Rock Bottoms 📉**
+- 💬 Ask me about **Cars 🏎️, FCB ⚽️, Gym 🏋️‍♂️, Rock Bottoms 📉, Bhagavad Gita 🛕**
 - ⚡ Fun fact: **Quantum Physics says luck has a funny habit of showing up for people who stay curious and don’t take failure personally.**
 
-#### Always hungry to solve problems and help businesses grow!
+#### Always hungry to solve problems using Data and help businesses grow!
 
-### I know more about: </br>
+### I know: </br>
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000000?style=for-the-badge&logo=powerbi)
@@ -24,7 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 
 
-### Some of the technologies I'm currently working on: </br>
+### I'm working on: </br>
 ![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=LangChain)
 ![GPT-4o](https://img.shields.io/badge/-GPT--4o-000000?style=for-the-badge&logo=openai)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-000000?style=for-the-badge&logo=huggingface)
