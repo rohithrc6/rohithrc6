@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on:
     - Main quest: High-impact GenAI initiatives.
     - Side quest: Building AI-powered products for public good.
-- 🤔 I’m looking for help with **Developing a product agnostic mindset.**
 - 💬 Ask me about **Cars 🏎️, FCB ⚽️, Gym 🏋️‍♂️, Rock Bottoms 📉, Bhagavad Gita 🛕**
 - ⚡ **Fun fact:** Quantum Physics says "luck" has a funny habit of showing up for people who stay _**curious**_ and don’t take failure _**personally**_.
 
