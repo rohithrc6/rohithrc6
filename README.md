@@ -1,4 +1,4 @@
-<h2 align="center">Namaste 🙏🏻 I'm Rohith Challa, welcome to my profile!</h2>
+<h2 align="center">Namaste 🙏🏻  I'm Rohith Challa, welcome to my profile!</h2>
 
 - 🔭 I’m currently more into **Data Analytics and AI**
 - 🌱 I’m currently learning **GenAI**
