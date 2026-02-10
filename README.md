@@ -4,7 +4,7 @@
 - 🔭 I’m currently more into **Data Analytics and AI**
 - 🌱 I’m currently learning **GenAI**
 - 👯 I’m looking to collaborate on:
-    - Main quest: High-impact GenAI initiatives.
+    - Main quest: High-impact Data GenAI initiatives.
     - Side quest: Building AI-powered products for public good.
 - 💬 Ask me about **Cars 🏎️, FCB ⚽️, Gym 🏋️‍♂️, Rock Bottoms 📉, Bhagavad Gita 🛕**
 - ⚡ **Fun fact:** Quantum Physics says "luck" has a funny habit of showing up for people who stay _**curious**_ and don’t take failure _**personally**_.
