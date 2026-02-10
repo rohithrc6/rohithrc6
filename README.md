@@ -18,6 +18,8 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=for-the-badge&logo=tableau)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&logo=seaborn)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit--learn-000000?style=for-the-badge&logo=scikitlearn)
 ![Excel](https://img.shields.io/badge/-Excel-000000?style=for-the-badge&logo=microsoft-excel)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws)
