@@ -50,3 +50,7 @@
   <p align="center">
     <a href="mailto:rohithchalla99@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
+
+  <p align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=rohithrc6&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  </p>
